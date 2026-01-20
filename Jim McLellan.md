@@ -300,25 +300,11 @@
 
 ### Questions to ask other people
 
-- Ask Joe/Donnie what staff-level expectations look like here (breadth, influence, writing, operational ownership).[^1]
+- Ask Joe/Donny what staff-level expectations look like here (breadth, influence, writing, operational ownership).[^1]
 - Ask recent applicants what mattered most in grad school letters and essays for UPenn/Temple.
 
 
-### Open / ambiguous items to confirm
 
-- The transcript labels you as “Thomas”; confirm this should be normalized to “Arjun” for archival.[^1]
-- Confirm your exact current title/team and what “purple buddy” formally includes.[^1]
-- Confirm the exact book title/author Jim referenced.[^1]
-
-***
-
-Plain questions to confirm (so the archive is accurate)
-
-- Should the date be recorded as Jan 15, 2026, and do you want the time included?
-- What is your exact job title and team/org at Leidos?
-- Should future briefs replace “Thomas” with “Arjun” everywhere?
-
-<div align="center">⁂</div>
 
 [^1]: Jim-Career-Interview.mp3
 
